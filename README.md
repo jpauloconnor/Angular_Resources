@@ -1,5 +1,5 @@
-# react-redux-resources
-A README.MD file for collecting React & Redux resources.
+# Angular Resources
+A README.MD file for collecting Angular resources.
 
 
 * [Angular Resources](#angular-resources)
@@ -10,14 +10,12 @@ A README.MD file for collecting React & Redux resources.
   * [Codepen](#codepen)
   * [Youtube](#youtube)
   * [Angular 5](#angular5)
-
+  
 
 ## Basics
-
 * [Angular](https://angular.io) - Official Angular Documentation
 
 ## Tutorials
-
 * [codecrafttv](https://codecraft.tv/courses/angular/quickstart/overview/) - Great site for basics. Can be confusing, but explanations are great.
 
 * [realworldfullstack](https://blog.realworldfullstack.io/real-world-angular-part-1-not-another-todo-list-c2ea5020f944) - Great stie for building a trivia app with Authentication, Firebase, User Roles, Profiles, etc. A smorgasbord of greatness. He also keeps things updated for Angular 4.
