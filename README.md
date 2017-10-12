@@ -8,10 +8,13 @@ A README.MD file for collecting React & Redux resources.
   * [Tutorials](#tutorials)
   * [Repos](#repositories)  
   * [Codepen](#codepen)
+  * [Youtube](#youtube)
+  * [Angular 5](#angular5)
+
 
 ## Basics
 
-* [Angular](https://angular.io) - React Documentation
+* [Angular](https://angular.io) - Official Angular Documentation
 
 ## Tutorials
 
@@ -22,4 +25,9 @@ A README.MD file for collecting React & Redux resources.
 ## Repos
 * [todowithfirebase](https://github.com/r-park/todo-angular-firebase) - Very nice Angular 4 app that uses Firebase for simple CRUD stuff.
 
+## Youtube
+* [rxjs](https://www.youtube.com/watch?v=2LCo926NFLI) - Nice 15 minute video on Angular, Firebase, RxJS, and Observables.
+
+## Angular 5
+* [angular5](https://www.infoworld.com/article/3213244/javascript/whats-new-in-angular-5-easier-progressive-web-apps.html) - Article about Angular 5.
 
