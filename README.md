@@ -12,7 +12,6 @@ A README.MD file for collecting Angular resources.
   * [Material](#material)
   * [Angular 5](#angular5)
   
-
 ## Basics
 * [Angular](https://angular.io) - Official Angular Documentation
 
@@ -28,7 +27,10 @@ A README.MD file for collecting Angular resources.
 * [rxjs](https://www.youtube.com/watch?v=2LCo926NFLI) - Nice 15 minute video on Angular, Firebase, RxJS, and Observables.
 
 ## Material
+* [material docs](https://material.angular.io/) - Material Docs for Angular
 * [primeng](https://www.primefaces.org/primeng/#/) - Complete User Interface Suite for Angular.
+* [strapui](https://www.strapui.com/) - Material and Bootstrap themes for Angular, React, & Meteor.
+
 
 ## Angular 5
 * [angular5](https://www.infoworld.com/article/3213244/javascript/whats-new-in-angular-5-easier-progressive-web-apps.html) - Article about Angular 5.
