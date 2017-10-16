@@ -9,6 +9,7 @@ A README.MD file for collecting Angular resources.
   * [Repos](#repositories)  
   * [Codepen](#codepen)
   * [Youtube](#youtube)
+  * [Material](#material)
   * [Angular 5](#angular5)
   
 
@@ -25,6 +26,9 @@ A README.MD file for collecting Angular resources.
 
 ## Youtube
 * [rxjs](https://www.youtube.com/watch?v=2LCo926NFLI) - Nice 15 minute video on Angular, Firebase, RxJS, and Observables.
+
+## Material
+* [primeng](https://www.primefaces.org/primeng/#/) - Complete User Interface Suite for Angular.
 
 ## Angular 5
 * [angular5](https://www.infoworld.com/article/3213244/javascript/whats-new-in-angular-5-easier-progressive-web-apps.html) - Article about Angular 5.
