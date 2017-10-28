@@ -23,6 +23,8 @@ A README.MD file for collecting Angular resources.
 ## Repos
 * [todowithfirebase](https://github.com/r-park/todo-angular-firebase) - Very nice Angular 4 app that uses Firebase for simple CRUD stuff.
 
+* [AngularAwesome](https://github.com/AngularClass/awesome-angular) - Humongous list of awesome Angular resources.
+
 ## Youtube
 * [rxjs](https://www.youtube.com/watch?v=2LCo926NFLI) - Nice 15 minute video on Angular, Firebase, RxJS, and Observables.
 
@@ -30,6 +32,7 @@ A README.MD file for collecting Angular resources.
 * [material docs](https://material.angular.io/) - Material Docs for Angular
 * [primeng](https://www.primefaces.org/primeng/#/) - Complete User Interface Suite for Angular.
 * [strapui](https://www.strapui.com/) - Material and Bootstrap themes for Angular, React, & Meteor.
+* [AngularMaterial](https://alligator.io/angular/angular-material-2/) - Steps for setting up Material in an Angular project.
 
 
 ## Angular 5
