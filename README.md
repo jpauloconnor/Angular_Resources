@@ -11,12 +11,17 @@ A README.MD file for collecting Angular resources.
   * [Youtube](#youtube)
   * [Material](#material)
   * [Angular 5](#angular5)
+  * [Sass](#sass)
+
   
 ## Basics
 * [Angular](https://angular.io) - Official Angular Documentation
 
 ## Tutorials
 * [codecrafttv](https://codecraft.tv/courses/angular/quickstart/overview/) - Great site for basics. Can be confusing, but explanations are great.
+
+* [Angular Training](https://angular-2-training-book.rangle.io/) - Great training site for Angular.
+
 
 * [realworldfullstack](https://blog.realworldfullstack.io/real-world-angular-part-1-not-another-todo-list-c2ea5020f944) - Great stie for building a trivia app with Authentication, Firebase, User Roles, Profiles, etc. A smorgasbord of greatness. He also keeps things updated for Angular 4.
 
@@ -38,3 +43,7 @@ A README.MD file for collecting Angular resources.
 ## Angular 5
 * [angular5](https://www.infoworld.com/article/3213244/javascript/whats-new-in-angular-5-easier-progressive-web-apps.html) - Article about Angular 5.
 
+## Sass
+* [SassImplementation](https://scotch.io/tutorials/using-sass-with-the-angular-cli) - setting up or converting to Sass in a project.
+
+* [SassStarter](https://scotch.io/tutorials/getting-started-with-sass) - Nice starter on scoping and Sass.
